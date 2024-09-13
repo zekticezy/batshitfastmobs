@@ -8,3 +8,8 @@ This datapack makes all mobs in Minecraft insanely fast. Cause why the hell not?
 
 # Licensing
 This project uses zekkie's *Go Crazy* License™. Meaning is in the name: Go Crazy. Do whatever you want with it. I don't care.
+
+# Bug Reporting
+Do not ask me to fix bugs. Don't even report any bugs. This was made in 10 minutes. I do not care.
+
+Matter of fact, it's like 5 lines of code, how could you possibly even find a bug? 
