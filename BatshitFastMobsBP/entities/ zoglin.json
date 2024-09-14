@@ -1,0 +1,16 @@
+{
+    "format_version": "1.10",
+    "minecraft:entity": {
+        "description": {
+            "identifier": "minecraft: zoglin",
+            "is_spawnable": true,
+            "is_summonable": true,
+            "is_experimental": false
+        },
+        "components": {
+            "minecraft:movement": {
+                "value": 5
+            }
+        }
+    }
+}

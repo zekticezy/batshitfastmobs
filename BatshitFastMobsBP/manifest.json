@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "This pack makes all mobs in Minecraft insanely fast. Cause why the hell not?",
+      "name": "Batshit Fast Mobs",
+      "uuid": "b57bb4b5-621c-4e7e-9dd9-7d9246a46fd0",
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 16, 0],
+      "icon": "icon.jpg"
+    },
+    "modules": [
+      {
+        "description": "Batshit Fast Mobs Behavior Pack",
+        "type": "data",
+        "uuid": "b98ea094-c1e0-4251-85df-80f1f11ae6fa",
+        "version": [1, 0, 0]
+      }
+    ]
+  }
+  
